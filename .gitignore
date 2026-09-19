@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.log
+.venv-livekit/
+calls/
+provider_check.py
+diagnose_room_audio.py
+inspect_call.py
+inspect_recording.py
+inspect_trunk.py
+stop_test_call.py
