@@ -13,5 +13,9 @@ No successful assessment conversation is claimed.
 The caller now validates trunk configuration, waits for an answered call, and limits
 ringing to 30 seconds and total duration to 180 seconds.
 
+The code is published at https://github.com/SaiAle/pgai-voice-bot.
+Diagnostic dashboard screenshots are in [evidence](evidence/README.md). They document
+an incomplete attempt and do not replace the required recordings and transcripts.
+
 Remaining: fix the carrier trunk, complete ten full recorded calls, review conversation
-quality and bugs, publish a public repository, and record two applicant webcam videos.
+quality and bugs, and record two applicant webcam videos. The challenge is not complete.
